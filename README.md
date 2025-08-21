@@ -30,7 +30,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/irving-bank.git
+git clone https://github.com/ajayncho/irving-bank.git
 cd irving-bank
 
 
